@@ -1,0 +1,10 @@
+name = "MyPackage"
+uuid = "a0955ad3-e4ab-418d-8756-c3ff1215154d"
+authors = ["contrera "]
+version = "0.1.0"
+
+[deps]
+Example = "7876af07-990d-54b4-ab0e-23690620f79a"
+
+[compat]
+Example = "0.5.5"
