@@ -1,0 +1,10 @@
+    Updating registry at `~/.julia/registries/General.toml`
+    Updating `/pfs/lustrep3/scratch/project_465001310/pcontreras/slurm_examples/exercise_2/Project.toml`
+  [8ba89e20] ~ Distributed ⇒ v1.11.0
+    Updating `/pfs/lustrep3/scratch/project_465001310/pcontreras/slurm_examples/exercise_2/Manifest.toml`
+  [8ba89e20] + Distributed v1.11.0
+  [9a3f8284] + Random v1.11.0
+  [ea8e919c] + SHA v0.7.0
+  [9e88b42a] + Serialization v1.11.0
+  [6462fe0b] + Sockets v1.11.0
+[2, 3]

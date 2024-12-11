@@ -1,0 +1,64 @@
+    Updating registry at `~/.julia/registries/General.toml`
+    Updating `/pfs/lustrep3/scratch/project_465001310/pcontreras/slurm_examples/exercise_3/Project.toml`
+  [da04e1cc] + MPI v0.20.22
+    Updating `/pfs/lustrep3/scratch/project_465001310/pcontreras/slurm_examples/exercise_3/Manifest.toml`
+  [ffbed154] + DocStringExtensions v0.9.3
+  [692b3bcd] + JLLWrappers v1.6.1
+  [da04e1cc] + MPI v0.20.22
+  [3da0fdf6] + MPIPreferences v0.1.11
+  [eebad327] + PkgVersion v0.3.3
+  [aea7be01] + PrecompileTools v1.2.1
+  [21216c6a] + Preferences v1.4.3
+  [ae029012] + Requires v1.3.0
+  [e33a78d0] + Hwloc_jll v2.11.2+1
+  [7cb0a576] + MPICH_jll v4.2.3+0
+  [f1f71cc9] + MPItrampoline_jll v5.5.1+0
+  [9237b28f] + MicrosoftMPI_jll v10.1.4+3
+  [fe0851c0] + OpenMPI_jll v5.0.6+0
+  [0dad84c5] + ArgTools v1.1.2
+  [56f22d72] + Artifacts v1.11.0
+  [2a0f44e3] + Base64 v1.11.0
+  [ade2ca70] + Dates v1.11.0
+  [8ba89e20] + Distributed v1.11.0
+  [f43a241f] + Downloads v1.6.0
+  [7b1f6079] + FileWatching v1.11.0
+  [4af54fe1] + LazyArtifacts v1.11.0
+  [b27032c2] + LibCURL v0.6.4
+  [76f85450] + LibGit2 v1.11.0
+  [8f399da3] + Libdl v1.11.0
+  [56ddb016] + Logging v1.11.0
+  [d6f4376e] + Markdown v1.11.0
+  [ca575930] + NetworkOptions v1.2.0
+  [44cfe95a] + Pkg v1.11.0
+  [de0858da] + Printf v1.11.0
+  [9a3f8284] + Random v1.11.0
+  [ea8e919c] + SHA v0.7.0
+  [9e88b42a] + Serialization v1.11.0
+  [6462fe0b] + Sockets v1.11.0
+  [fa267f1f] + TOML v1.0.3
+  [a4e569a6] + Tar v1.10.0
+  [cf7118a7] + UUIDs v1.11.0
+  [4ec0a83e] + Unicode v1.11.0
+  [e66e0078] + CompilerSupportLibraries_jll v1.1.1+0
+  [deac9b47] + LibCURL_jll v8.6.0+0
+  [e37daf67] + LibGit2_jll v1.7.2+0
+  [29816b5a] + LibSSH2_jll v1.11.0+1
+  [c8ffd9c3] + MbedTLS_jll v2.28.6+0
+  [14a3606d] + MozillaCACerts_jll v2023.12.12
+  [83775a58] + Zlib_jll v1.2.13+1
+  [8e850ede] + nghttp2_jll v1.59.0+0
+  [3f19e933] + p7zip_jll v17.4.0+2
+Precompiling project...
+   1018.7 ms  ✓ MicrosoftMPI_jll
+   1131.5 ms  ✓ MPIPreferences
+    653.6 ms  ✓ Hwloc_jll
+   1331.6 ms  ✓ PkgVersion
+   1277.4 ms  ✓ MPItrampoline_jll
+   1213.7 ms  ✓ OpenMPI_jll
+   1509.2 ms  ✓ MPICH_jll
+   6050.7 ms  ✓ MPI
+  8 dependencies successfully precompiled in 12 seconds. 32 already precompiled.
+Hello from rank 0 out of 1 from host nid002275 and process 49584.
+Hello from rank 0 out of 1 from host nid002275 and process 49583.
+Hello from rank 0 out of 1 from host nid002276 and process 243798.
+Hello from rank 0 out of 1 from host nid002276 and process 243799.
